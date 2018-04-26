@@ -145,3 +145,4 @@ Major required change of application manager layer design public
 ## Impact on existing code
 
 ## Alternatives considered
+N/A
